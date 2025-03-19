@@ -1,5 +1,4 @@
 # Cyber-Attack-Simulation-Report
-# Cyber Attack Simulation Report
 
 ## Prepared by: Prime Alyn Murcia
 
